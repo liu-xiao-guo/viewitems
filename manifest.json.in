@@ -1,0 +1,17 @@
+{
+    "name": "viewitems.liu-xiao-guo",
+    "description": "description of viewitems",
+    "architecture": "@CLICK_ARCH@",
+    "title": "viewitems",
+    "hooks": {
+        "viewitems": {
+            "apparmor": "viewitems/viewitems.apparmor",
+            "desktop":  "viewitems/viewitems.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

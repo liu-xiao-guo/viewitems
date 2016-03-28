@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=viewitems
+Exec=viewitems
+Icon=viewitems/viewitems.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
